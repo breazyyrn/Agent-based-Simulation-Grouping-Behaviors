@@ -1,0 +1,36 @@
+  // public void add(int pos, T item){
+    //     ArrayList<T> LinkedListArray = new ArrayList<>();
+    //     Node<T> cur = head;
+    //     Node<T> prev = head;
+
+    //     for (int i=0;i<size; i++){
+    //         LinkedListArray.add(head.data);
+    //     }
+
+    //     for (int i=0;i<LinkedListArray.size();i++){
+    //         if(i==pos){
+    //             Node<T> newNode = new Node<T>(item);
+    //             LinkedListArray.add(i, item);
+    //             cur = newNode;
+    //             prev = LinkedListArray.get()
+    //         }
+    //     }
+
+    //     for (int i=0; i<LinkedListArray.size();i++){
+    //         if(LinkedListArray.size() != 0){
+
+    //         }
+    //     }
+    //     for (int i=0;i<size;i++){
+    //         if(i == pos){
+    //             Node<T> newNode = new Node<T>(item);
+    //             /**
+    //              * Make the new node point to the previous node and the node after it so
+    //              * it can get between these two nodes
+    //              */
+    //             newNode = prev
+    //             size++;
+    //         }
+    //         cur = cur.next;
+    //     }
+    // }
